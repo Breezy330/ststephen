@@ -156,3 +156,16 @@ footer ul.quick-links li{
     color: white;
     text-decoration: none;
 }
+
+.bannersection{
+    background-image: url('../images/2.jpg');
+    color: cornsilk;
+    background-size: cover;
+    
+}
+
+.accomplishment img{
+    box-shadow: 10px 10px rgb(136, 93, 12);
+}
+
+
