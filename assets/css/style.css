@@ -199,4 +199,18 @@ footer ul.quick-links li{
     border-radius: 50px;
 }
 
+.bannersectionstaff{
+    background-image: url(../images/download\ \(17\).jpg);
+    background-size: cover;
+    min-height: 120px;
+    padding: 80%;
+}
 
+.staffsection img{
+    border-radius: 50%;
+    transition: 7s linear;
+}
+
+.staffsection img:hover{
+    box-shadow: 0 0 10px 0px rgb(100, 67, 5);
+}
